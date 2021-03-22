@@ -10,5 +10,6 @@ Working of the Binary Search Algorithm:
 -> If the above two cases don't match, then the program moves to the last case i.e execute the code for the case that "num" lies to the left side of the middle element. 
 -> Next, this code returns "binarysearch" function with new parameters. 
 -> The above steps are repeated until either righmost element is less than or equal to leftmost element to which it returns a value. If any case of "num" matches the "mid" element, then it returns to "result" section and printing.
+
 Point to note: The file was not opening on github when I saved it with a .ipynb extension so used a .py extension. Built on Jupyter Notebook.
 
